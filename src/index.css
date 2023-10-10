@@ -138,3 +138,8 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.getStartedHover:hover {
+  background: linear-gradient(to right, #ff7e5f, #feb47b); /* Example gradient */
+  transition: background 0.3s ease-in-out;
+}
