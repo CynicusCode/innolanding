@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Ai Insights",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The Ai provide insightful and contextually accurate responses",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We take proactive measures to ensure your email content and data remain confidential.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Intuitive Context Switching",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "InnoBox AI Copilot seamlessly understands varying email contexts to provide the most relevant replies.",
   },
 ];
 
@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Automation is only as efficient as its understanding. With InnoBox AI Copilot, every email feels personal and precise.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Efficiency isn't just about speed, but clarity. This AI ensures our messages hit the mark every time",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "In the age of digital communication, it's tools like InnoBox AI Copilot that set businesses apart.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -78,12 +78,12 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "TIME SAVED PER DAY",
-    value: "230+",
+    title: "HOURS SAVED",
+    value: "2300+",
   },
   {
     id: "stats-3",
-    title: "ACCURACY RATE",
+    title: "ACCURACY",
     value: "93.5%",
   },
 ];
