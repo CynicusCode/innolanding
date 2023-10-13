@@ -22,8 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+      Maximize Productivity with AI-Driven Email Replies
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       InnoBox Ai Copilot is a cutting-edge solution that features, precise context understanding, response generation, and natural language processing.

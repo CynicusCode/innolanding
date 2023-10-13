@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Ai Insights",
     content:
-      "The Ai provide insightful and contextually accurate responses",
+      "The Ai provide insightful and contextually accurate responses up to 90% of the time",
   },
   {
     id: "feature-2",
